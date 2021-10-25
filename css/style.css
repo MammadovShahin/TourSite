@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f2f8fb;
+
+}
+.col-4{
+    width: 33.3%;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.Header{
+    text-align: center;
+}
+.Header h2{
+    font-family: 'K2D', sans-serif;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    color: #292b2c;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.Header P{
+     font-family: 'Poppins', sans-serif;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #888888;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.Image-Info-1{
+    display: flex;
+}
+.Image-Info-1 img{
+    width: 90%;
+}
+.img-border{
+    border-radius: 10px 10px 0 0;
+}
+.Info-1{
+width: 90%;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 0 0 10px 10px;
+}
+.Info-2{
+    width: 90%;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 0 0 10px 10px;
+}
+.Info-3{
+    width: 90%;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 0 0 10px 10px;
+}
+
+.Price-Rating{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
